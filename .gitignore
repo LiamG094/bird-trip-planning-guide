@@ -1,0 +1,9 @@
+# Dependency folders
+node_modules/
+
+# Environment / Secret variables
+.env
+
+# System files (macOS / Windows junk files)
+.DS_Store
+Thumbs.db
